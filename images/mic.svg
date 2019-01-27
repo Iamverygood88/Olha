@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" class="icon_click" id="mic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5E2384;}
+	.st1{fill:none;stroke:#FDB914;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;}
+</style>
+<circle id="background" class="st0" cx="36" cy="36" r="36"/>
+<path id="iconStroke" class="st1" d="M53,35.9v-9.4v4.7h-4.6c0,0,1.7,18.1-12.4,18.1c-14.8,0-12.1-18.1-12.1-18.1H19
+	 M19,36.1v-9.6 M42.6,22L42.6,22c0-10-13.3-10.6-13.3,0l0,0v13.3l0.1,0.3c-0.2,9.1,13.1,9.8,13.1-0.3l0,0V22z M36,49.2v8.5H24.2
+	h23.6 M29.4,26.4H33 M29.4,31.2h3.7 M42.6,26.4h-3.7 M29.4,21.6H33 M42.6,21.6h-3.7 M42.6,31.2h-3.7"/>
+</svg>

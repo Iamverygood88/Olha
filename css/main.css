@@ -1,0 +1,85 @@
+@charset "utf-8";
+/*CSS document*/
+body{
+	 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	 background-color: #ded7e2;
+}
+.hidden
+{
+	display: none;
+}
+#topBar
+{
+	background-color: #5e2384;
+	height: 50px;
+}
+.mainName{
+	
+	height: 250px;
+  	width: 850px;
+  	display: flex;
+  	flex-direction: column;
+  	background-color: #9257ad;
+	margin: 0 auto;
+	margin-bottom: 50px;
+	
+}
+.textMaim{
+	text-align: center;
+	color: #fdb914;
+	font-size: 42px;
+	padding-top: 20px;
+}
+.textParagraph {
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+	color: #f74bc3;
+	font-size: 16px;
+	font-style: italic;
+
+}
+.container{
+
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+}
+.icon {
+	background-color: #9257ad;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	width: 130px;
+	/*margin: 10px;*/
+}
+#iconStroke:hover {
+	stroke: #f74bc3;
+}
+#background:hover {
+	fill: #cc3a94;
+}
+.icon_click:active {
+ 	position: relative;
+	top: 10px;
+ }
+ .mainFooter{
+ 	margin: 0 auto;
+ 	margin-top: 50px;
+ 	height: 50px;
+  	width: 850px;
+  	background-color: #5e2384;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: baseline;
+ }
+.author{
+	color: #f74bc3;
+	font-size: 12px;
+	font-style: italic;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
